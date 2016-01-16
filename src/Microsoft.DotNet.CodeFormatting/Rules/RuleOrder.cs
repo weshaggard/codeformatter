@@ -28,6 +28,7 @@ namespace Microsoft.DotNet.CodeFormatting.Rules
         public const int IsFormattedFormattingRule = 3;
         public const int RemoveExplicitThisRule = 4;
         public const int AssertArgumentOrderRule = 5;
+        public const int UseKeywordsOverTypes = 6;
     }
 
     // Please keep these values sorted by number, not rule name.    
